@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisOdhice
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Postgresql, Python and Tableau
-- 💞️ I’m looking to collaborate on  projects related to data analysis, SQL, Python, and Excel. My expertise lies in extracting insights from sales data and creating visualizations to drive informed decisions. Feel free to reach out to discuss potential collaboration opportunities or project ideas.
+- 👀 I’m interested in Technical Writing and Data Analysis
+- 🌱 I’m currently learning Postgresql and MongoDB
+- 💞️ I’m looking to collaborate on  projects related to technical writing, data analysis, SQL, Python, and Excel. My expertise lies in simplyfing technical codes and information, extracting insights from data and creating visualizations. Feel free to reach out to discuss potential collaboration opportunities or project ideas.
 
 <!---
 DennisOdhice/DennisOdhice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
