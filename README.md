@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DennisOdhice
+- 👋 Hi, I’m Dennis Owino
 - 👀 I’m interested in Technical Writing and Data Analysis
 - 🌱 I’m currently learning Postgresql and MongoDB
 - 💞️ I’m looking to collaborate on  projects related to technical writing, data analysis, SQL, Python, and Excel. My expertise lies in simplyfing technical codes and information, extracting insights from data and creating visualizations. Feel free to reach out to discuss potential collaboration opportunities or project ideas.
